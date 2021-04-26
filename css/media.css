@@ -1,0 +1,449 @@
+
+
+
+@media(min-width:1200px) and (max-width:1399px){
+    .banner-item img {
+         margin-left: 0px;
+    }
+    .banner-content {
+        margin-top: 47.4%;
+    }
+    .banner-massage {
+        margin-top: -39%;
+    }
+    .banner-massage p {
+        padding-bottom: 10px;
+    }
+    #testomonial-heading {
+        padding-top: 0px;
+    }
+    .nav-pills .nav-link {
+        padding: 12px 67px;
+    }
+    .sponser-icon .left {
+        top: 23px;
+    }
+    .sponser-icon .right {
+        top: 23px;
+    }
+    #footer {
+       
+        height: 85vh;
+    }
+   
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner-content {
+        margin-top: 58.4%;
+    }
+    .banner-item img {
+        margin-left: 0px;
+    }
+    .banner-massage {
+        margin-top: -39%;
+    }
+    .banner-massage p {
+        padding-bottom: 7px;
+    }
+    .gallery-bg {
+        height: 127vh;
+    }
+    #testomonial-heading {
+        padding-top: 0px;
+       
+    }
+    #testomonail {
+         padding-top: 0px; 
+         padding-bottom: 100px; 
+        height: 52vh;
+    }
+    .nav-pills .nav-link {
+        padding: 12px 52px;
+    }
+    .sponser-icon .left {
+        top: 25px;
+    }
+    .sponser-icon .right {
+        top: 25px;
+    }
+    #footer {
+       
+        height: 105vh;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-toggler i{
+        color:#fff;
+        font-size: 15px;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    header nav .container .logo-main {
+        background: #323232;
+        padding: 3px 10px;
+        display: inline-block;
+        left: 0px;
+        top: -12px;
+        transform: none;
+        position: inherit;
+    }
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 21px;
+    }
+    .nav-item {
+        background: #000000;
+    }
+    header .nav-new .container .logo-main {
+        transform: none;
+        padding: 4px 21px;
+        top: -13px;
+        bottom: 0;
+        position: inherit;
+    }
+    .banner-item img {
+        margin-left: 0px;
+    }
+    .banner-content {
+        margin-top: 33.4%;
+    }
+    .banner-item img {
+       opacity: 1;
+    }
+    .banner-item img {
+        margin-left: 58px;
+    }
+    .banner-massage {
+        margin-top: -29%;
+    }
+    .banner-massage p {
+        padding: 0px 100px;
+        padding-bottom: 30px;
+    }
+    .heading h4 {
+        margin-top: 40px;
+    }
+    .banner-content {
+        margin-top: 36.4%;
+    }
+    .banner-massage {
+        margin-top: -32%;
+    }
+    .heading h4 {
+        margin-top: 0px;
+    }
+    .about-left {
+        height: 60vh;
+    }
+    .gallery-bg {
+        height: 96vh;
+       
+    }
+    #testomonail {
+        height: 55vh;
+    }
+    #testomonial-heading {
+        padding-top: 0px;
+    
+    }
+    #testomonial-heading {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .team-main {
+        margin-bottom: -163px;
+    }
+    .nav-pills .nav-link {
+        margin-top: 0px;
+        padding: 12px 32px;
+        
+    }
+    .servics-m ul li {
+        font-weight: 600;
+        font-size: 12px;
+        padding: 12px;
+    }
+    .sponser-icon .left {
+        top: 26px;
+    }
+    .sponser-icon .right {
+        top: 26px;
+    }
+    #footer {
+        padding-top: 0px;
+        padding-bottom:0px;
+        height: 205vh;
+    }
+    .social-icon i {
+       
+        margin-bottom: 16px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        color:#fff;
+        font-size: 15px;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    header nav .container .logo-main {
+        background: #323232;
+        padding: 3px 10px;
+        display: inline-block;
+        left: 0px;
+        top: -12px;
+        transform: none;
+        position: inherit;
+    }
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 21px;
+    }
+    .nav-item {
+        background: #000000;
+    }
+    header .nav-new .container .logo-main {
+        transform: none;
+        padding: 4px 21px;
+        top: -13px;
+        bottom: 0;
+        position: inherit;
+    }
+    .banner-item img {
+        margin-left: 0px;
+    }
+    .banner-content {
+        margin-top: 33.4%;
+    }
+    .banner-item img {
+       opacity: 0;
+    }
+    .banner-massage {
+        margin-top: -29%;
+    }
+    .banner-massage p {
+        padding: 0px 62px;
+        padding-bottom: 20px;
+    }
+    .heading h4 {
+        margin-top: 40px;
+    }
+    #gallery {
+        padding-top: 6px;
+    }
+    .gallery-bg {
+       height: 70vh;
+        
+    }
+    .team-main {
+        margin-top: 38px;
+        margin-bottom: -200px;
+    }
+    #testomonail {
+        padding-top: 217px;
+        padding-bottom: 158px;
+    }
+    .revew p {
+        line-height: 22px;
+        padding: 0px 24px;
+    }
+    .member-main {
+        margin-top: 40px;
+    }
+    #counter {
+       height: 100vh;
+    }
+    .counter-iteam h4 {
+        
+        padding-top: 18px;
+    }
+    .counter-iteam p {
+        line-height: 10px;
+        padding-top: 20px;
+    }
+    .top-btm i {
+        right: 10px;
+       
+    }
+    .nav-pills .nav-link {
+        margin-top: 0px;
+        padding: 12px 9px;
+        font-weight: 300;
+        font-size: 11px;
+       
+       
+    }
+    .sponser-icon .left {
+        top: 9px;
+    }
+    .sponser-icon .right {
+        top: 9px;
+      
+    }
+    #footer {
+        padding-top: 0px;
+        padding-bottom: 0px; 
+        height: 212vh;
+    }
+    .social-icon {
+        margin-bottom: 13px;
+    }
+    #testomonial-heading {
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+    #testomonail {
+        padding-top: 0px;
+        padding-bottom:0px;
+        height: 73vh;
+    }
+    .revew p {
+        line-height: 23px;
+    }
+    .servics-m ul li {
+        padding: 20px;
+    }
+    .copy-right {
+        margin-top: 52px;
+    }
+    .nav-pills .nav-link {
+        padding: 12px 18px;
+        font-weight: 400;
+        font-size: 13px;
+    }
+}
+
+
+
+@media (max-width:575.98px){
+    .navbar-toggler i{
+        color:#fff;
+        font-size: 15px;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    header nav .container .logo-main {
+        background: #323232;
+        padding: 3px 10px;
+        display: inline-block;
+        left: 0px;
+        top: -12px;
+        transform: none;
+        position: inherit;
+    }
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 21px;
+    }
+    .nav-item {
+        background: #000000;
+    }
+    header .nav-new .container .logo-main {
+        transform: none;
+        padding: 4px 21px;
+        top: -13px;
+        bottom: 0;
+        position: inherit;
+    }
+    .banner-item img {
+        margin-left: 0px;
+    }
+    .banner-content {
+        margin-top: 50.4%;
+    }
+    .banner-item img {
+       opacity: 0;
+    }
+    .banner-massage {
+        margin-top: -29%;
+    }
+    .banner-massage p {
+        padding: 0px 128px;
+        padding-bottom: 20px;
+    }
+    .heading h4 {
+        margin-top: 40px;
+    }
+    #gallery {
+        padding-top: 6px;
+    }
+    .gallery-bg {
+       height: 390vh;
+        
+    }
+    .team-main {
+        margin-top: 38px;
+        margin-bottom: -200px;
+    }
+    #testomonail {
+        padding-top: 217px;
+        padding-bottom: 158px;
+    }
+    .revew p {
+        line-height: 22px;
+        padding: 0px 24px;
+    }
+    .member-main {
+        margin-top: 40px;
+    }
+    #counter {
+       height: 100vh;
+    }
+    .counter-iteam h4 {
+        
+        padding-top: 18px;
+    }
+    .counter-iteam p {
+        line-height: 10px;
+        padding-top: 20px;
+    }
+    .top-btm i {
+        right: 10px;
+       
+    }
+    .nav-pills .nav-link {
+        margin-top: 0px;
+        padding: 12px 9px;
+        font-weight: 300;
+        font-size: 11px;
+       
+       
+    }
+    .sponser-icon .left {
+        top: 9px;
+    }
+    .sponser-icon .right {
+        top: 9px;
+      
+    }
+    #footer {
+        padding-top: 0px;
+        padding-bottom: 0px; 
+        height: 212vh;
+    }
+    .social-icon {
+        margin-bottom: 13px;
+    }
+    @media(min-width:575px){
+        .banner-content {
+            margin-top: 25.4%;
+        }
+        .gallery-bg {
+            height: 608vh;
+        }
+        .servics-m ul li {
+            padding: 17px;
+        }
+        .nav-pills .nav-link {
+            padding: 14px 24px;
+            
+        }
+    }
+}
